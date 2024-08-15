@@ -26,7 +26,7 @@ BookWise: Where words come alive. Start your reading journey today! 🌟
 1. Clone the repository:
 
 ```sh
-git clone <repo_url>
+git clone <https://github.com/ayasqualli/CS50-Final-Project.git>
 ```
 
 2. Navigate to the project directory
